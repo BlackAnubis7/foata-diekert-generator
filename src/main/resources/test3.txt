@@ -1,0 +1,10 @@
+a b c d e f g h
+afdchgbecf
+x := 3
+x := x + y
+x := x - z
+y := y ^ 2
+y := v * x
+z := 0
+z := z * v
+v := v - z
